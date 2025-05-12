@@ -21,8 +21,5 @@ The Xiaomi 12 lite (codenamed _"taoyao"_) is a high-end smartphone from Xiaomi. 
 | Fingerprint             | Under display, Optical                                                                                                                         |
 
 
-## Device picture
-
-![Xiaomi 12 lite](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12-lite-05.jpg)
 
 Copyright (C) 2025 Taoyao-AOSP
